@@ -1,0 +1,10 @@
+data/images/Train/disease41.jpg
+data/images/Train/disease42.jpg
+data/images/Train/disease43.jpg
+data/images/Train/disease44.jpg
+data/images/Train/disease45.jpg
+data/images/Train/disease46.jpg
+data/images/Train/disease47.jpg
+data/images/Train/disease48.jpg
+data/images/Train/disease49.jpg
+data/images/Train/disease50.jpg

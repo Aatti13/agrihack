@@ -1,0 +1,11 @@
+Train: Train.txt
+names:
+  0: fall armyworm
+  1: oriental armyworm
+  2: elephant hawkmoth
+  3: cotton bollworm
+  4: cotton leafworm
+  5: african armyworm
+  6: stout dart
+  7: cutworm
+path: .
